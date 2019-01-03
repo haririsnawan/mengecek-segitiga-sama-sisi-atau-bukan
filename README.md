@@ -1,0 +1,1 @@
+# mengecek-segitiga-sama-sisi-atau-bukan
